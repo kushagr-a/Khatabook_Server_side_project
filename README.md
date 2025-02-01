@@ -1,0 +1,1 @@
+Khatabook_Server_side_project is a web application designed to help users manage their financial transactions efficiently. The project is built using Node.js for the backend and EJS (Embedded JavaScript) for the frontend templates
